@@ -1,0 +1,419 @@
+stringId,中文,英文,西班牙语,印度,泰国,越南
+settings_tab_connection,连接,Connect,Conectar,Koneksi,เชื่อมต่อ,Kết nối
+settings_tab_common,通用设置,General settings,Configuración general,Atur umum,ตั้งค่าทั่วไป,Cài đặt chung
+settings_tab_system,系统设置,System settings,Configuración del sistema,Atur sistem,ตั้งค่าระบบ,Cài đặt hệ thống
+settings_tab_scene,情景模式,Profile,Perfil,Mode adegan,โหมดอารมณ์,Chế độ bối cảnh
+settings_label,系统设置,Settings,Ajustes,Atur sistem,ตั้งค่าระบบ,Cài đặt hệ thống
+settings_scene,情景模式,Profile,Perfil,Mode adegan,โหมดอารมณ์,Chế độ bối cảnh
+display_settings,屏幕亮度,Screen brightness,Brillo de la pantalla,Kecerahan layar,ความสว่างหน้าจอ,Độ sáng màn hình
+brightness_setting_title,屏幕亮度设置,Screen brightness settings,Configuración de brillo de la pantalla,Atur kecerahan layar,ตั้งค่าความสว่างหน้าจอ,Cài đặt độ sáng màn hình
+bluetooth,蓝牙,Bluetooth,Bluetooth,Bluetooth,บลูทูธ,Bluetooth
+sound_settings,声音设置,Voice settings,Configuración de voz,Atur suara,ตั้งค่าเสียง,Cài đặt âm thanh
+applications_settings,声音,Voice,Voz,Suara,เสียง,Âm thanh
+system_setting_machine_name,本机名称,the local name,el nombre local,Nama perangkat ini,ชื่อเครื่องนี้,Tên thiết bị này
+system_setting_car_infomation,车辆信息,Vehicle information,Información del vehículo,Informasi mobil,ข้อมูลรถ,Thông tin xe
+system_setting_license_plate_info,车牌信息,License plate information,Información de la matrícula,Informasi plat mobil,ข้อมูลทะเบียนรถ,Thông tin biển số xe
+system_setting_system_ver,系统版本,System version,Versión del sistema,Versi sistem,เวอร์ชันระบบ,Phiên bản hệ thống
+system_setting_system_privacy,隐私权限,Privacy permission,Permiso de privacidad,Izin privasi,สิทธิ์ความเป็นส่วนตัว,Quyền riêng tư
+system_setting_system_memory,系统内存,System memory,Memoria del sistema,Memori sistem,หน่วยความจำระบบ,Bộ nhớ hệ thống
+system_setting_exemption_clause,免责条款,Disclaimer,Descargo de responsabilidad,Penafian,ข้อจำกัดความรับผิดชอบ,Điều khoản miễn trừ trách nhiệm
+system_setting_fail_retry,页面加载失败，稍后重试,Page loading failed. Please try again later,"Error al cargar la página. Por favor, inténtelo de nuevo más tarde","Gagal memuat halaman, coba lagi nanti",โหลดหน้าหลักล้มเหลว ลองใหม่ภายหลัง,"Tải giao diện thất bại, hãy thử lại sau"
+system_setting_loading,加载中，请稍后…,Loading… Please wait,Cargando... Espere por favor,"Memuat, harap tunggu...",กำลังโหลด โปรดลองใหม่ภายหลัง...,"Đang tải, xin hãy đợi…"
+system_setting_restore_factory,恢复出厂设置,Factory reset,Restablecimiento de fábrica,Kembali ke ke pengaturan pabrik,กู้คืนการตั้งค่าโรงงาน,Khôi phục cài đặt xuất xưởng
+common_setting_sys_theme_c,系统主题设置,System theme settings,Configuración del tema del sistema,Atur tema sistem,ตั้งค่าธีมของระบบ,Cài đặt chủ đề hệ thống
+common_setting_sys_theme,系统主题,System theme,Tema del sistema,Tema sistem,ธีมของระบบ,Chủ đề hệ thống
+common_setting_ai,智能推荐,Intelligent recommendation,Recomendación inteligente,Rekomendasi cerdas,คำแนะนำระบบ AI,Đề xuất thông minh
+common_setting_theme_mode,白天黑夜设置,Day and night settings,Configuraciones diurnas y nocturnas,Atur siang dan malam,ตั้งค่ากลางวันกลางคืน,Cài đặt ngày và đêm
+common_setting_mode_light,白天模式,Day mode,Modo diurno,Mode siang,โหมดกลางวัน,Chế độ ngày
+common_setting_mode_night,黑夜模式,Night mode,Modo nocturno,Mode gelap,โหมดกลางคืน,Chế độ ban đêm
+common_setting_mode_auto,自动模式,Automatic mode,Modo automático,Mode otomatis,โหมดอัตโนมัติ,Chế độ tự động
+common_setting_vioce,语音相关,Voice related,Voz,Terkait suara,เกี่ยวข้องกับเสียง,Liên quan đến giọng nói
+common_setting_unit,单位设置,Unit settings,Ajustes de la unidad,Atur unit,ตั้งค่าหน่วย,Cài đặt đơn vị
+conn_setting_ap,个人热点,Personal hotspot,Punto de acceso personal,Hotspot pribadi,ฮอตสปอต,Mạng chia sẻ cá nhân
+conn_setting_title_wlan,WLAN,WLAN,WLAN,WLAN,WLAN,WLAN
+bluetooth_devices,"""设备""","""Device""","\""Dispositivo\""","""Peralatan""","""อุปกรณ์""","""Thiết bị"""
+wlan_net,"""网络""","""Network""","\""Red\""","""Jaringan""","""เครือข่าย""","""Mạng"""
+date_and_time_settings_title,时间,Time,Hora,Wkt,เวลา,Thời gian
+date_and_time_settings_title_setup_wizard,时间设置,Time settings,Configuración de hora,Atur wkt,ตั้งค่าเวลา,Cài đặt thời gian
+date_picker_title,Date,Date,Fecha,Tanggal,วันที่,Ngày
+restricted_while_driving,Feature not available while driving.,Feature not available while driving.,Función no disponible mientras se conduce.,Fitur tdk tersedia saat mengemudi.,ฟีเจอร์ไม่ทำงานในขณะขับขี่,Tính năng không khả dụng khi đang lái xe.
+working_frequency_str,工作频率,Working frequency,Frecuencia de trabajo,Frekuensi kerja,ความถี่การทำงาน,Tần suất làm việc
+machine_name_edit_tip,输入有误，请重新输入\n只允许输入：简体中文、英文大小写、数字、下划线 “_”,"The input is invalid. Please re-input.\nIt only allows simplified Chinese, uppercase and lowercase English, numbers, and underscores as inputs.","La entrada no es válida. Vuelva a introducir. \nSolo se admiten caracteres en chino simplificado, inglés en mayúsculas y minúsculas, números y guiones bajos.","Kesalahan input, harap input kembali\nhanya bisa input: China Sederhana, huruf besar dan kecil Inggris, angka, garis bawah ""_"" ",การป้อนมีข้อผิดพลาด โปรดป้อนใหม่\nป้อนได้เฉพาะ: จีนตัวย่อ อังกฤษพิมพ์เล็กและพิมพ์ใหญ่ ตัวเลข สัญประกาศ “_”,"Lỗi nhập, vui lòng nhập lại\nchỉ cho phép nhập: Tiếng Trung giản thể, tiếng Anh chữ hoa và chữ thường , chữ số, dấu gạch dưới ""_"""
+machine_name_edit_tip_too_long,输入有误，请重新输入\n已超出最大字符数,The input is invalid. Please re-input.\nThe maximum number of characters has been exceeded.,La entrada no es válida. Vuelva a introducir.\nSe ha superado el número máximo de caracteres.,"Kesalahan input, harap input kembali\ntelah melebihi jumlah karakter maks",การป้อนมีข้อผิดพลาด โปรดป้อนใหม่\nเกินจำนวนอักษรสูงสุด,"Lỗi nhập, vui lòng nhập lại\nđã vượt quá số ký tự tối đa"
+machine_name_edit_tip_n,只允许输入：简体中文、英文大小写、数字、下划线 “_”,"It only allows simplified Chinese, uppercase and lowercase English, numbers, and underscores as inputs.","Solo admite chino simplificado, inglés en mayúsculas y minúsculas, números y guiones bajos.","Hanya bisa input: China Sederhana, huruf besar dan kecil Inggris, angka, garis bawah ""_""",ป้อนได้เฉพาะ: จีนตัวย่อ อังกฤษพิมพ์เล็กและพิมพ์ใหญ่ ตัวเลข สัญประกาศ “_”,"Chỉ cho phép nhập: Tiếng Trung giản thể, tiếng Anh chữ hoa và chữ thường, chữ số, dấu gạch dưới ""_"""
+string_user_privacy,用户服务协议,User service agreement,Acuerdo de servicio de usuario,Perjanjian Layanan Pengguna,ข้อตกลงการใช้บริการของผู้ใช้,Thỏa thuận dịch vụ người dùng
+string_privacy,隐私保护政策,Privacy protection policy,Política de protección de privacidad,Kebijakan Perlindungan Privasi,นโยบายความเป็นส่วนตัว,Chính sách bảo mật
+string_ai_recommended,可通过开关选择是否进行推荐，关闭后则不再推荐，直至下次开启,"Recommendations can be enabled and disabled via a switch. If you turn off the switch, recommendations will not be shown until you turn it on again","Las recomendaciones se pueden activar y desactivar mediante un interruptor. Si apaga el interruptor, las recomendaciones no se mostrarán hasta que lo vuelvas a encender","Dapat pilih apakah akan membuat rekomendasi melalui saklar, setelah ditutup, tdk lagi disarankan hingga lain kali buka lagi",สามารถเลือกว่าจะให้คำแนะนำผ่านสวิตช์หรือไม่ เมื่อปิด คำแนะนำจะไม่ถูกแนะนำอีกจนกว่าจะเปิดในครั้งถัดไป,"Bạn có thể thông qua nút bật tắt để chọn có tiến hành đề xuất hay không, sau khi tắt sẽ không đề xuất lại nữa, cho đến lần bật tiếp theo"
+con_bt,蓝牙,Bluetooth,Bluetooth,Bluetooth,บลูทูธ,Bluetooth
+con_bt_device,蓝牙设备,Bluetooth device,Dispositivo Bluetooth,Peralatan bluetooth,อุปกรณ์บลูทูธ,Thiết bị Bluetooth
+con_wlan,WLAN,WLAN,WLAN,WLAN,WLAN,WLAN
+con_wlan_name,无线局域网,WLAN,WLAN,LAN nirkabel,WLAN,Mạng cục bộ không dây
+con_hotspot,个人热点,Personal hotspot,Punto de acceso personal,Hotspot pribadi,ฮอตสปอต,Mạng chia sẻ cá nhân
+con_hotspot_settings,个人热点设置,Personal hotspot settings,Configuración de punto de acceso personal,Atur hotspot pribadi,ตั้งค่าฮอตสปอต,Cài đặt mạng chia sẻ cá nhân
+con_screen,投屏,Projection screen,Pantalla de proyección,Penampilan layar,Miracast,Chiếu màn hình
+com_system_theme,系统主题,System theme,Tema del sistema,Tema sistem,ธีมของระบบ,Chủ đề hệ thống
+com_theme,主题,Theme,Tema,Tema,ธีม,Chủ\nđề
+com_uimode_auto,自动,Auto,Auto,Auto,อัตโนมัติ,Tự động
+com_uimode_day,浅色,Light,Luz,Siang,กลางวัน,Ban ngày
+com_uimode_night,深色,Dark,Oscuro,Malam,กลางคืน,Ban đêm
+air_temperature,空调温度,Air conditioner temperature,Temperatura del aire acondicionado,Suhu AC,อุณหภูมิแอร์,Nhiệt độ điều hòa
+scene_wind_speed,空调风速,A/C wind speed,Velocidad del viento de A/C,Kecepatan angin AC,ลมแอร์,Tốc độ gió điều hòa
+con_screen_projection,投屏,Projection screen,Pantalla de proyección,Penampilan layar,Miracast,Chiếu màn hình
+con_wifi_current_connected,当前连接,Current connection,Conexión actual,Koneksi saat ini,ปัจจุบันเชื่อมต่อ,Kết nối hiện tại
+con_wifi_disconnect,断开,Disconnect,Desconectar,Putus,ตัดขาด,Ngắt
+con_wifi_saved,已保存网络,Network saved,Red guardada,Jaringan yg disimpan,บันทึกเครือข่ายแล้ว,Mạng đã lưu
+con_wifi_other,其它网络,Other networks,Otras redes,Jaringan lain,เครือข่ายอื่น,Mạng khác
+con_wifi_delete,删除,Delete,Borrar,Hapus,ลบ,Xóa
+con_wifi_out_of_range,此Wifi不在范围内,This WiFi is not in range,Este WiFi no está dentro del alcance.,WiFi  ini di luar jangkauan,WiFi นี้ไม่อยู่ในขอบเขต,WiFi này ngoài vùng phủ sóng
+con_wifi_please_input_pwd,请输入“%1s”密码,"Please enter ""%1s"" password","Por favor, introduzca \""%1s\"" contraseña","Silakan input ""%1s"" kata sandi",โปรดป้อนรหัสผ่าน “%1s”,"Xin vui lòng nhập mật khẩu ""%1s"""
+con_wifi_input_pwd,输入密码,Enter password,Introducir la contraseña,Input kata sandi,ป้อนรหัสผ่าน,Nhập mật khẩu
+con_bt_bond_list,已配对列表,Paired list,Lista emparejada,Daftar yg sdh dipasangkan,รายการจับคู่แล้ว,Danh sách ghép
+con_bt_avai_devices,其他可用设备,Other available device,Otro dispositivo disponible,Peralatan lain yg tersedia,อุปกรณ์ที่ใช้ได้อื่นๆ,Thiết bị khả dụng khác
+con_bt_unavai_devices,其他不可用设备,Other unavailable devices,Otros dispositivos no disponibles,Peralatan lain yg tdk tersedia,อุปกรณ์ที่ใช้ไม่ได้อื่นๆ,Thiết bị không khả dụng khác
+con_bt_unavai_devices_title,不可用蓝牙设备,Other unavailable Bluetooth devices,Otros dispositivos Bluetooth no disponibles,Peralatan bluetooth lain yg tdk tersedia,ไม่สามารถใช้อุปกรณ์บลูทูธได้,Không thể sử dụng thiết bị Bluetooth
+con_bt_pairing_success_toast_phone,已连接手机「%s」,Cellphone connected「%s」,Teléfono móvil conectado「%s」,Hp yg terhubung「%s」,เชื่อมต่อโทรศัพท์ “%s” แล้ว,Đã kết nối điện thoại 「%s」
+con_bt_pairing_success_toast_handshank,已连接手柄「%s」,Handle connected「%s」,Manija conectada「%s」,Pegangan terhubung「%s」,เชื่อมต่อจอยสติ๊ก “%s” แล้ว,Đã kết nối tay cầm 「%s」
+con_bt_pairing_success_toast_headset,已连接耳机「%s」,Earphone connected「%s」,Auricular conectado「%s」,Hp terhubung「%s」,เชื่อมต่อหูฟัง “%s” แล้ว,Đã kết nối tai nghe 「%s」
+con_bt_talkback_computer,计算机,Computer,Ordenador,Komputer,เครื่องคิดเลข,Máy tính
+con_bt_talkback_input_peripheral,外围输入设备,Peripheral input device,Dispositivo periférico de entrada ,Peralatan input periferal,อุปกรณ์อินพุตต่อพ่วง,Thiết bị đầu vào ngoại vi
+con_bt_talkback_headset,耳麦,Headset,Auriculares,Headset,ชุดหูฟัง,Tai nghe
+con_bt_talkback_phone,手机,Cellphone,Teléfono móvil,Hp,โทรศัพท์,Điện thoại
+con_bt_talkback_imaging,成像设备,Imaging device,Dispositivo de imagen,Peralatan pencitraan,อุปกรณ์ถ่ายภาพ,Thiết bị hình ảnh
+con_bt_talkback_headphone,耳机,Earphone,Auricular,Earphone,หูฟัง,Tai nghe
+con_bt_talkback_bluetooth,蓝牙,Bluetooth,Bluetooth,Bluetooth,บลูทูธ,Bluetooth
+con_bt_type_phone,手机设备,Cellphone devices,Dispositivos móviles,Peralatan hp,อุปกรณ์โทรศัพท์,Thiết bị điện thoại
+con_bt_type_misc,麦克风,Microphone,Micrófono,Mikrofon,ไมโครโฟน,Micro
+con_bt_type_toy,游戏外设,Game peripherals,Periféricos de juego,Periferal game,อุปกรณ์ต่อพ่วงเกม,Thiết bị ngoại vi trò chơi
+con_bt_type_bluetooth,蓝牙设备,Bluetooth device,Dispositivo Bluetooth,Peralatan bluetooth,อุปกรณ์บลูทูธ,Thiết bị Bluetooth
+con_bt_connected,已连接,Connected,Conectado,Terhubung,เชื่อมต่อแล้ว,Đã kết nối
+con_bt_disconnected,未连接,Not connected,No conectado,Blm terhubung,ยังไม่เชื่อมต่อ,Chưa kết nối
+con_bt_connect,连接设备,Connect device,Conectar dispositivo,Peralatan terhubung,เชื่อมต่ออุปกรณ์,Thiết bị kết nối
+con_bt_other_devices,其它可用设备,Other available device,Otro dispositivo disponible,Peralatan lain yg tersedia,อุปกรณ์ที่ใช้ได้อื่นๆ,Thiết bị khả dụng khác
+con_bt_profile_pbap,通话通道,Call channel,Canal de llamada,Saluran panggilan,ช่องทางการโทร,Kênh gọi
+con_bt_profile_a2dp,音频通道,Audio channel,Canal de audio,Saluran audio,ช่องสัญญาณเสียง,Kênh âm thanh
+con_bt_default_device,默认连接设备,Default connected device,Dispositivo conectado predeterminado,Peralatan koneksi default,ค่าเริ่มต้นเชื่อมต่ออุปกรณ์,Thiết bị kết nối mặc định
+con_bt_set_default_device,设置默认设备,Set default device,Establecer dispositivo predeterminado,Atur peralatan default,ตั้งค่าอุปกรณ์ค่าเริ่มต้น,Cài đặt thiết bị mặc định
+con_bt_disconnect_tips_title,提醒,Warning,Advertencia,Pengingat,แจ้งเตือน,Nhắc nhở
+con_bt_disconnect_two_profile_tips,蓝牙音频与通话通道全部关闭\n将导致蓝牙设备断开,Closing all Bluetooth audio and call channels\nwill cause Bluetooth device to disconnect,El cierre de todos los canales de audio y llamadas de Bluetooth\nhará que el dispositivo Bluetooth se desconecte,Tutup semua audio bluetooth dan saluran panggilan\nakan menyebabkan peralatan bluetooth terputus,เสียงบลูทูธและช่องทางการโทรถูกปิดทั้งหมด\nจะทำให้อุปกรณ์บลูทูธตัดขาด,Tắt tất cả các kênh cuộc gọi và âm thanh Bluetooth\nsẽ khiến thiết bị Bluetooth bị ngắt kết nối
+con_bt_forget_tips,确认删除已配对设备%s？,Are you sure to delete the paired %s device?,¿Desea eliminar el dispositivo %s emparejado?,Apakah yakin hapus perangkat yg dipasangkan%s?,ยืนยันลบอุปกรณ์%sที่จับคู่แล้ว?,Có chắc chắn xóa thiết bị đã ghép không %s?
+con_bt_disconnect_tips,确认断开已连接设备%s？,Are you sure to disconnect the connected %s device?,¿Desea desconectar el dispositivo %s conectado?,Apakah yakin putus perangkat yg terhubung%s?,ยืนยันลบอุปกรณ์%sที่เชื่อมต่อแล้ว?,Có chắc ngắt kết nối thiết bị đã kết nối không %s?
+btn_cancel,取消,Cancel,Cancelar,Batal,ยกเลิก,Hủy
+btn_positive,确认,OK,OK,Yakin,ตกลง,Xác nhận
+btn_ok,好的,OK,OK,Baik,ตกลง,OK
+btn_done,完成,Done,Hecho,Selesai,สำเร็จ,Hoàn thành
+btn_sava,保存,Save,Guardar,Simpan,บันทึก,Lưu
+btn_not_sava,不保存,Not save,No guardar,Tdk simpan,ไม่บันทึก,Không lưu
+btn_disconnect,断开,Disconnect,Desconectar,Putus,ตัดขาด,Ngắt
+btn_retry,重试,Retry,Reintentar,Coba lagi,ลองใหม่,Thử lại
+btn_bt_forget,删除,Delete,Borrar,Hapus,ลบ,Xóa
+btn_login,立即登录,Login now,Iniciar sesión,Sgr masuk,ล็อกอินทันที,Lập tức đăng nhập
+btn_call,呼叫,Call,Llamar,Panggil,โทร,Gọi
+con_bt_not_connect,未连接,Not connected,No conectado,Blm terhubung,ยังไม่เชื่อมต่อ,Chưa kết nối
+con_wifi_not_connect,未连接,Not connected,No conectado,Blm terhubung,ยังไม่เชื่อมต่อ,Chưa kết nối
+con_hotspot_pwd_hint,密码最少8位，必须是字母、数字或“_”,"The password must contain letters, numbers or ""_"", with the minimum length of 8 characters.","La contraseña debe contener letras, números o \""_\"", con una longitud mínima de 8 caracteres.","Kata sandi harus minimal 8 karakter dan harus huruf, angka atau ""_""","รหัสผ่านน้อยสุด 8 หลัก จะต้องเป็นตัวอักษร,ตัวเลข หรือ “_”","Mật khẩu phải có ít nhất 8 ký tự và phải là chữ cái, số hoặc ""_"""
+con_hotspot_set_password,个人热点密码,Personal hotspot password,Contraseña de punto de acceso personal,Kata sandi hotspot pribadi,รหัสผ่านฮอตสปอต,Mật khẩu mạng chia sẻ cá nhân
+com_light_icu_light_disable,仪表亮度设置,Instrument brightness settings,Configuración de brillo del instrumento,Atur kecerahan meteran,ตั้งค่าความสว่างของมิเตอร์,Cài đặt độ sáng Bảng đồng hồ
+com_light_icu_light,仪表亮度设置：%d,Instrument brightness settings: %d,Configuraciones de brillo del instrumento: %d,Atur kecerahan meteran: %d,ตั้งค่าความสว่างของมิเตอร์: %d,Cài đặt độ sáng Bảng đồng hồ: %d
+com_light_hub_set,中控亮度设置：%d,Head unit brightness settings: %d,Configuración de brillo de la unidad principal: %d,Atur kecerahan kontrol pusat: %d,ตั้งค่าความสว่างควบคุมภายใน: %d,Cài đặt độ sáng Trung tâm điều khiển : %d
+com_light_autolight,自动调节屏幕亮度,Auto adjustment of brightness,Ajuste automático del brillo,Sesuaikan kecerahan layar scr otomatis,ปรับความสว่างหน้าจออัตโนมัติ,Tự động điều chỉnh độ sáng màn hình
+con_tether_password_error,密码不符合要求，请修改,The password is invalid. Please change it.,La contraseña no es válida. Por favor cámbielo.,"Kata sandi tdk memenuhi persyaratan, harap ubah",รหัสผ่านไม่สอดคล้องกับความต้องการ โปรดแก้ไข,"Mật khẩu không phù hợp yêu cầu, vui lòng thay đổi"
+com_recommend_i_Konw,知道了,OK,OK,Oke,ทราบแล้ว,OK
+com_font_set,字体设置,Font settings,Configuración de fuente,Atur font,ตั้งค่าแบบอักษร,Cài đặt phông chữ
+com_font_scale,字体大小,Font\nsize,Tamaño de\nfuente,Ukuran font,ขนาดอักษร,Cỡ chữ
+com_brightness,屏幕亮度,Screen brightness,Brillo de la pantalla,Kecerahan layar,ความสว่างหน้าจอ,Độ sáng màn hình
+com_brightness_setting,屏幕亮度设置,Screen brightness settings,Configuración de brillo de la pantalla,Atur kecerahan layar,ตั้งค่าความสว่างหน้าจอ,Cài đặt độ sáng màn hình
+com_sound,声音,Voice,Voz,Suara,เสียง,Âm thanh
+com_sound_setting,声音设置,Voice settings,Configuración de voz,Atur suara,ตั้งค่าเสียง,Cài đặt âm thanh
+app_name_bluetooth,车内蓝牙,In-car Bluetooth,Bluetooth en el vehículo,Bluetooth dlm mobil,บลูทูธภายในรถ,Bluetooth trong xe
+bt_leve_load,正在搜索,Searching,Buscando,Lg cari,กำลังค้นหา,Đang tìm kiếm
+bt_leve_empty,无蓝牙功能,No Bluetooth feature,Sin función Bluetooth,Tiada fungsi bluetooth,ไม่มีฟังก์ชันบลูทูธ,Không có chức năng Bluetooth
+bt_leve1_list2_title3,已配对过的设备,Paired device,Dispositivo emparejado,Peralatan yg sdh dipasangkan,อุปกรณ์ที่เคยจับคู่แล้ว,Thiết bị đã được ghép
+bt_leve1_list2_title4,可用设备,Available device,Dispositivo disponible,Peralatan yg tersedia,อุปกรณ์ที่ใช้ได้,Thiết bị khả dụng
+bt_leve1_list2_empty,无可用蓝牙设备,No Bluetooth device available,No hay ningún dispositivo Bluetooth disponible,Tiada peralatan bluetooth yg tersedia,ไม่มีอุปกรณ์บลูทูธที่ใช้ได้,Không thể dùng thiết bị Bluetooth
+bt_status_title,蓝牙连接,Bluetooth connection,Conexión Bluetooth,Koneksi bluetooth,เชื่อมต่อบลูทูธ,Kết nối Bluetooth
+bt_device_name_title,设备名称,Device name,Nombre del dispositivo,Nama perangkat,ชื่ออุปกรณ์,Tên thiết bị
+bt_device_action_search,刷新,Refresh,Actualizar,Segarkan,รีเฟรช,Làm mới
+bt_device_mac,MAC地址,MAC address,Dirección MAC,Alamat MAC,ที่อยู่ MAC,Địa chỉ MAC
+bt_device_forget,忘记此设备,Forget this device,Olvidar el dispositivo,Lupa perangkat ini,ลืมอุปกรณ์นี้,Quên thiết bị này
+bt_dev_conn_notall_title,提示,Prompt,Aviso,Pengingat,แจ้งเตือน,Nhắc nhở
+bt_dev_call_title,通话音频,Call audio,Llamada de audio,Audio panggilan,เสียงการโทร,Âm tần cuộc gọi
+bt_dev_music_title,媒体音频,Media audio,Audio multimedia,Audio media,เสียงมีเดีย,Âm tần đa phương tiện
+bt_dev_connected,已连接,Connected,Conectado,Terhubung,เชื่อมต่อแล้ว,Đã kết nối
+bt_dev_conn_notall,已连接（%s）,Connected (%s),Conectado (%s),Terhubung (%s),เชื่อมต่อแล้ว (%s),Đã kết nối (%s)
+bt_dev_conn_no_hfpclient,无通话，,"No calls,","Sin llamadas,","Tiada panggilan,","ไม่มีการโทร,","Không có cuộc gọi,"
+bt_dev_conn_no_a2dpsink,无媒体，,"No media,","Sin multimedia,","Tiada media,","ไม่มีมีเดีย,","Không có phương tiện truyền thông,"
+bt_dev_conn_no_pbap,无通讯录，,"No Contacts,","Sin contactos,","Tiada daftar kontak,","ไม่มีรายชื่อผู้ติดต่อ,",Không có danh bạ
+bt_dev_conn_no_a2dp,无媒体，,"No media,","Sin multimedia,","Tiada media,","ไม่มีมีเดีย,","Không có phương tiện truyền thông,"
+bt_dev_conn_no_headset,无电量，,"No battery power,","Sin batería,","Tiada listrik,","ไม่มีประจุไฟฟ้า,","Không có lượng điện,"
+bt_devices_paired_desc,已保存,Saved,Guardado,Sdh simpan,บันทึกแล้ว,Đã lưu
+bt_right_conning,正在与「%s」建立连接…,Connecting「%s」...,Conectando「%s」...,Membuat koneksi dgn 「%s」...,กำลังสร้างการเชื่อมต่อกับ “%s”...,Đang thiết lập kết nối với 「%s」
+bt_right_disconning,正在与「%s」断开连接…,Disconnecting「%s」...,Desconectando「%s」...,Putus koneksi dgn 「%s」...,กำลังตัดการเชื่อมต่อกับ “%s”...,Đang ngắt kết nối với 「%s」
+bt_right_conned,成功与「%s」建立连接,Connection with「%s」successfully established,Conexión con「%s」establecida con éxito,Berhasil membuat koneksi dgn 「%s」,สร้างการเชื่อมต่อกับ “%s” สำเร็จ,Thành công thiết lập kết nối với 「%s」
+bt_category_phone,"""蓝牙手机""","""Bluetooth cellphone""","\""Teléfono móvil con Bluetooth\""","""Hp bluetooth""","""โทรศัพท์บลูทูธ""","""Điện thoại Bluetooth"""
+bt_category_microphone,"""蓝牙麦克风""","""Bluetooth microphone""","\""Micrófono Bluetooth\""","""Mikrofon bluetooth""","""ไมโครโฟนบลูทูธบลูทูธ""","""Micro Bluetooth"""
+bt_category_toy,"""蓝牙手柄""","""Bluetooth handle""","\""Manija Bluetooth\""","""Pegangan bluetooth""","""จอยสติ๊กบลูทูธ""","""Tay cầm Bluetooth"""
+bt_toast_connecting,正在连接中…,Connecting,Conectando,Sambungkan...,กำลังเชื่อมต่อ...,Đang kết nối…
+bt_toast_bond_succeed,配对成功,Pairing successful,Emparejamiento exitoso,Berhasil pasangkan,จับคู่สำเร็จ,Ghép thành công
+bt_toast_bond_failed,配对失败,Pairing failed,Falló el emparejamiento,Gagal pasangkan,จับคู่ล้มเหลว,Ghép thất bại
+bt_toast_connecting_to_disconnected,连接断开,Disconnect,Desconectar,Putus koneksi,ตัดขาดการเชื่อมต่อ,Ngắt kết nối
+bt_toast_disconnected,蓝牙已断开,Bluetooth disconnected,Bluetooth desconectado,Bluetooth terputus,ตัดขาดบลูทูธแล้ว,Bluetooth đã ngắt kết nối
+bt_toast_connected,蓝牙已连接,Bluetooth connected,Bluetooth conectado,Bluetooth sdh terhubung,เชื่อมต่อบลูทูธแล้ว,Bluetooth đã kết nối
+sound_balance,"""左右平衡:%d""","""Left and right balance: %d""","\""Equilibrio izquierda y derecha: %d\""","""Keseimbangan kiri dan kanan: %d""","""สมดุลซ้ายและขวา: %d""","""Cân bằng trái phải: %d"""
+sound_fade,"""前后平衡:%d""","""Front and rear balance: %d""","\""Equilibrio delantero y trasero: %d\""","""Keseimbangan depan dan belakang: %d""","""สมดุลหน้าและหลัง: %d""","""Cân bằng trước sau: %d"""
+sound_db_value,%ddb,%ddb,%ddb,%dDB,%d DB,%d db
+click_too_fast,点击太快,Tap too fast,Toca muy rápido,Klik terlalu cepat,แตะเร็วเกินไป,Nhấn quá nhanh
+wlan_password_error_dialog_ok,确认,OK,OK,Yakin,ตกลง,Xác nhận
+wlan_delete_dialog_title,删除历史网络,Delete history network,Borrar el historial de la red,Hapus jaringan riwayat,ลบประวัติเครือข่าย,Xóa mạng lịch sử
+wlan_delete_dialog_content,是否确认删除“%s”,"Do you want to delete ""%s""?","¿Desea borrar \""%s\""?","Apakah yakin hapus ""%s""",ยืนยันลบ “%s”หรือไม่,"Có xác nhận muốn xóa ""%s"" không"
+wlan_delete_dialog_delete,确认删除,Confirm deletion,Confirmar la eliminación,Yakin hapus,ยืนยันการลบ,Xác nhận xóa
+wlan_delete_dialog_cancel,取消,Cancel,Cancelar,Batal,ยกเลิก,Hủy
+wlan_disconnect_dialog_disconnect,确认断开,Confirm disconnection,Confirmar la desconexión,Yakin putus,ยืนยันการตัดขาด,Xác nhận ngắt
+wlan_disconnect_dialog_cancel,取消,Cancel,Cancelar,Batal,ยกเลิก,Hủy
+wlan_connect_failed_dialog_ok,确认,OK,OK,Yakin,ตกลง,Xác nhận
+bt_pairing_request,"将与设备配对：
+        ","To be paired with the device: 
+    ","Para emparejarse con el dispositivo:
+    ","Akan dipasangkan dgn perangkat: 
+               ","จับคู่กับอุปกรณ์:
+        ","Sẽ ghép với thiết bị:
+        "
+bt_pairing_request_device,"配对密钥为：
+        ","The pairing key is: 
+    ","La clave de emparejamiento es:
+    ","Kunci pasangkannya adlh: 
+               ","คีย์การจับคู่คือ:
+        ","Mã khóa ghép là：
+        "
+bt_pairing_request_error_message,"""无法与“","""Unable to pair with ""","\""No se puede emparejar con \""","""Tdk dapat pasangkan dgn ""","""ไม่สามารถจับคู่กับ “","""Không thể tiến hành ghép với """
+bt_pairing_pin_values_hint,通常是0000或1234,Usually 0000 or 1234,Generalmente 0000 o 1234,Biasanya adlh 0000 atau 1234,โดยปกติจะเป็น 0000 หรือ 1234,Thông thường là 0000 hoặc 1234
+bt_pairing_enable_alphanumeric_pin,PIN包含字母或符号,PIN contains letters or symbols,El PIN contiene letras o símbolos,PIN berisi huruf atau simbol,PIN ประกอบด้วยตัวอักษรหรือสัญลักษณ์,Mã PIN chứa các chữ cái hoặc ký hiệu
+bt_pairing_shares_phonebook,允许,Allow ,Permitir ,Izinkan ,อนุญาตให้,Cho phép 
+bt_pairing_tips,蓝牙配对请求,Bluetooth pairing request,Solicitud de emparejamiento de Bluetooth,Permintaan pasangkan bluetooth,คำขอจับคู่บลูทูธ,Yêu cầu ghép Bluetooth
+bt_pairing_enter_passkey_msg,输入配对代码，然后按回车或进入,"Enter the pairing code, then press Enter","Introduzca el código de emparejamiento, luego pulse Enter",Input kode pasangkan dan tekan enter atau masuk,ป้อนรหัสการจับคู่ จากนั้นแตะ Enter หรือเข้าสู่,"Nhập mã ghép, sau đó nhấn Enter hoặc Vào"
+bt_pairing_ok,配对,Pairing,Emparejamiento,Pasangkan,จับคู่,Ghép
+bt_pairing_cancel,取消,Cancel,Cancelar,Batal,ยกเลิก,Hủy
+bt_pairing_profile_going,"正在建立到\""","Establishing connection to \ ""","Estableciendo conexión con\""","Lg membuat ke \""Koneksi ","กำลังสร้างไปที่\""การเชื่อมต่อของ","Đang thiết lập đến\ """
+bt_pairing_profile_going_title,请检查你的手机,Please check your cellphone.,Por favor revise su teléfono móvil.,Harap periksa hpmu,โปรดตรวจสอบโทรศัพท์ของคุณ,Vui lòng kiểm tra điện thoại của bạn
+bt_pairing_enter_pin_other_device,您可能需要在其他设备上键入此PIN,You may need to type this PIN on another device,Es posible que tenga que escribir este PIN en otro dispositivo,Anda mungkin perlu input PIN ini di perangkat lain,คุณอาจจะต้องป้อน PIN นี้บนอุปกรณ์อื่น,Bạn có thể cần nhập mã PIN này trên các thiết bị khác
+bt_pairing_enter_passkey_other_device,您可能需要在其他设备上键入此密钥,You may need to type this key on another device,Es posible que tenga que escribir esta clave en otro dispositivo,Anda mungkin perlu input kunci ini di perangkat lain,คุณอาจจะต้องป้อนคีย์นี้บนอุปกรณ์อื่น,Bạn có thể cần nhập mã khóa này trên các thiết bị khác
+bt_pairing_pin_values_hint_16_digits,必须是16位,It must be 16 characters,Debe tener 16 caracteres.,Harus 16 bit,ต้องมี 16 หลัก,Bắt buộc phải là 16 bit
+bt_pairing_success_toast_phone,已连接手机「%s」,Cellphone connected 「%s」,Teléfono móvil conectado 「%s」,Hp yg terhubung「%s」,เชื่อมต่อโทรศัพท์ “%s” แล้ว,Đã kết nối điện thoại 「%s」
+bt_pairing_success_toast_handshank,已连接手柄「%s」,Handle connected 「%s」,Manija conectada 「%s」,Pegangan terhubung「%s」,เชื่อมต่อจอยสติ๊ก “%s” แล้ว,Đã kết nối tay cầm 「%s」
+bt_pairing_success_toast_headset,已连接耳机「%s」,Earphone connected「%s」,Auricular conectado「%s」,Hp terhubung「%s」,เชื่อมต่อหูฟัง “%s” แล้ว,Đã kết nối tai nghe 「%s」
+bt_pairing_failed_toast_0,蓝牙已断开「%s」,Bluetooth disconnected「%s」,Bluetooth desconectado「%s」,Bluetooth terputus「%s」,บลูทูธตัดขาด “%s” แล้ว,Bluetooth đã ngắt kết nối 「%s」
+bt_pairing_failed_toast_1,蓝牙配对不成功「%s」,Bluetooth pairing unsuccessful 「%s」,El emparejamiento de Bluetooth no se realizó correctamente 「%s」,Gagal pasangkan bluetooth「%s」,บลูทูธจับคู่ “%s” ไม่สำเร็จ,Ghép Bluetooth không thành công 「%s」
+bt_disconnect_msg,是否断开当前的蓝牙连接,Do you want to disconnect the Bluetooth connection?,¿Desea desconectar el Bluetooth?,Apakah putus koneksi bluetooth saat ini,ตัดขาดการเชื่อมต่อบลูทูธปัจจุบันหรือไม่,Có ngắt kết nối Bluetooth hiện tại không
+bt_disconnect_ok,确认,OK,OK,Yakin,ตกลง,Xác nhận
+bt_disconnect_cancel,取消,Cancel,Cancelar,Batal,ยกเลิก,Hủy
+bt_switch_bluetooth,是否切换蓝牙连接「%s」,Do you want to switch Bluetooth connection 「%s」?,¿Desea cambiar la conexión Bluetooth 「%s」?,Apakah beralih koneksi bluetooth「%s」,เปลี่ยนการเชื่อมต่อบลูทูธ “%s” หรือไม่,Có chuyển kết nối Bluetooth hay 「%s」 không
+bt_cancel_bluetooth,是否取消连接「%s」,Do you want to cancel the connection 「%s」?,¿Desea cancelar la conexión 「%s」?,Apakah batal koneksi「%s」,ยกเลิกการเชื่อมต่อ “%s” หรือไม่,Có hủy kết nối「%s」 không
+bt_connect_bluetooth_error,无法连接「%s」！,Unable to connect to 「%s」!,"¡No se puede conectar a \""%s\""!",Tdk dapat terhubung「%s」!,ไม่สามารถเชื่อมต่อ “%s” ได้!,Không thể kết nối 「%s」！
+home_back_app,< 返回%s,< Return %s,< Volver %s,< Kembali %s,< ย้อนกลับ%s,<Trở lại %s
+conn_hotspot_setup,设置个人热点,Set personal hotspot,Establecer punto de acceso personal,Aur hotspot pribadi,ตั้งค่าฮอตสปอต,Thiết lập mạng chia sẻ cá nhân
+conn_hotspot_device,设备,Device,Dispositivo,Peralatan,อุปกรณ์,Thiết bị
+conn_wifi_tether_pwd,个人热点密码,Personal hotspot password,Contraseña de punto de acceso personal,Kata sandi hotspot pribadi,รหัสผ่านฮอตสปอต,Mật khẩu mạng chia sẻ cá nhân
+conn_wifi_tether_pwd_setup,设置密码,Set password,Configurar la clave,Atur kata sandi,ตั้งค่ารหัสผ่าน,Đặt mật khẩu
+conn_wifi_tether_device,设备,Device,Dispositivo,Peralatan,อุปกรณ์,Thiết bị
+conn_tether_no_device,无设备,No device,Sin dispositivo,Tiada perangkat,ไม่มีอุปกรณ์,Không có thiết bị
+conn_bt_device,蓝牙设备,Bluetooth device,Dispositivo Bluetooth,Peralatan bluetooth,อุปกรณ์บลูทูธ,Thiết bị Bluetooth
+wifi_password_error,密码错误，连接失败,Wrong password. Connection failed.,Contraseña incorrecta. Falló la conexión.,"Kesalahan kata sandi, koneksi gagal",รหัสผ่านเกิดข้อผิดพลาด เชื่อมต่อล้มเหลว,"Mật khẩu sai, kết nối thất bại"
+sys_ver_mcu_soft_version,MCU软件版本号,MCU software version number,Número de versión del software de la MCU,Nomor versi perangkat lunak MCU,หมายเลขเวอร์ชันซอฟต์แวร์ MCU,Số phiên bản phần mềm MCU
+sys_ver_mcu_boot_version,MCU boot版本号,MCU boot version number,Número de versión de arranque de MCU,Nomor versi boot MCU,หมายเลขเวอร์ชัน MCU boot,Số phiên bản MCU boot
+sys_ver_hu,HU版本,HU version,Versión HU,Versi HU,เวอร์ชัน HU,Phiên bản HU
+sys_ver_build_date,编译日期,Compilation date,Fecha de compilación,Tanggal kompilasi,วันที่เรียบเรียง,Ngày biên dịch
+sys_ver_sw_version,屏幕版本,Screen version,Versión de pantalla,Versi layar,เวอร์ชันหน้าจอ,Phiên bản màn hình
+sys_ver_system_env,系统环境,System environment,Entorno del sistema,Lingkungan sistem,สภาพแวดล้อมระบบ,Môi trường hệ thống
+sys_motor_serial,电机号,Motor number,Número de motor,Nomor mesin,หมายเลขมอเตอร์,Số động cơ
+sys_car_qrcode,车辆二维码,Vehicle QR code,Código QR del vehículo,Kode QR mobil,คิวอาร์โค้ดรถ,Mã QR xe
+sys_vin,VIN,VIN,VIN,VIN,VIN,VIN
+sys_input_plate_info,请输入车牌号码,Enter the license plate number,Introduzca el número de matrícula,Harap input nomor plat mobil,โปรดป้อนเลขทะเบียนรถ,Vui lòng nhập biển số xe
+sys_plate_info,车辆车牌号,License plate number,Número de matrícula,Nomor plat mobil,เลขทะเบียนรถ,Biển số xe
+sys_input_error_retry,输入有误，请重新输入,Incorrect input. Please re-enter,Entrada incorrecta. Por favor vuelva a introducir,"Salah input, harap input kembali",การป้อนมีข้อผิดพลาด โปรดป้อนใหม่,"Lỗi nhập, vui lòng nhập lại"
+sys_car_plate_time,上牌日期,Registration Date,Fecha de Registro,Tggl terdaftar mobil,วันที่จดทะเบียน,Ngày cấp biển số
+sys_car_plate_time_input,请输入上牌日期,Enter registration date,Introduzca la fecha de registro,Harap input tggl terdaftar mobil,โปรดป้อนวันที่จดทะเบียน,Vui lòng nhập ngày cấp biển số
+sys_car_plate_time_tips,输入有误，时间范围必须在当前时间之前,Incorrect input. The time range must be before the current time,Entrada incorrecta. El rango de tiempo debe ser anterior a la hora actual.,"Salah input, rentang wkt harus sebelum wkt saat ini",การป้อนมีข้อผิดพลาด ช่วงเวลาต้องอยู่ก่อนเวลาปัจจุบัน,"Nhập sai, phạm vi thời gian phải là trước thời điểm hiện tại"
+sys_car_plate_check,年检提醒,Annual inspection reminder,Recordatorio de inspección anual,Pengingat inspeksi tahunan,แจ้งเตือนตรวจสภาพประจำปี,Nhắc nhở kiểm tra xe hàng năm
+sys_car_plate_time_get_fail,获取失败,Acquisition failed,Adquisición fallida,Gagal ambil,รับล้มเหลว,Nhận thất bại
+sys_refactory,还原系统设置,Restore system settings,Restaurar la configuración del sistema,Kembali ke pengaturan sistem,คืนค่าตั้งค่าระบบ,Khôi phục cài đặt hệ thống
+sys_refactory_carinfo,还原车辆设置,Restore vehicle settings,Restaurar la configuración del vehículo,Kembali ke pengaturan mobil,คืนค่าตั้งค่ารถ,Khôi phục cài đặt xe
+sys_refactory_default,还原默认设置并删除数据,Restore default settings and delete data,Restaurar la configuración predeterminada y eliminar datos,Kembali ke pengaturan default dan hapus data,คืนค่าตั้งค่าเริ่มต้นและลบข้อมูล,Khôi phục cài đặt mặc định và xóa dữ liệu
+sys_systemver_carver,车辆系统版本号,Vehicle system version number,Número de versión del sistema del vehículo,Nomor versi sistem mobil,หมายเลขเวอร์ชันระบบรถ,Số phiên bản hệ thống xe
+sys_systemver_hardware,硬件版本,Hardware version,Versión del hardware,Versi perangkat keras,เวอร์ชันฮาร์ดแวร์,Phiên bản phần cứng
+sys_systemver_iccid,ICCID,ICCID,ICCID,ICCID,ICCID,ICCID
+sys_systemver_pdsn,PDSN,PDSN,PDSN,PDSN,PDSN,PDSN
+sys_systemver_soft,IHU软件版本,IHU software version,Versión del software IHU,Versi perangkat lunak IHU,เวอร์ชันซอฟต์แวร์ IHU,Phiên bản phần mềm IHU
+sys_systemver_icuver,仪表软件版本,Instrument software version,Versión del software del instrumento,Versi perangkat lunak instrumen,เวอร์ชันซอฟต์แวร์เครื่อง,Phiên bản phần mềm Bảng đồng hồ
+sys_systemver_tboxver,T-BOX软件版本,T-BOX software version,Versión del software T-BOX,Versi perangkat lunak T-BOX,เวอร์ชันซอฟต์แวร์ T-BOX,Phiên bản phần mềm T-BOX
+sys_systemver_android,安卓版本,Android version,Versión de Android,Versi android,เวอร์ชันแอนดรอย,Phiên bản Android
+sys_systemver_bluemac,蓝牙Mac地址,Bluetooth Mac address,Dirección MAC de Bluetooth,Alamat Bluetooth Mac,ที่อยู่ Mac บลูทูธ,Địa chỉ Bluetooth Mac
+sys_systemver_wifimac,Wi-Fi Mac地址,WiFi Mac address,Dirección MAC de WiFi,Alamat WiFi Mac,ที่อยู่ Mac WiFi,Địa chỉ WiFi Mac
+sys_systemver_call,联系我们,Contact us,Contáctenos,Hubungi kami,ติดต่อเรา,Liên hệ với chúng tôi
+sys_verification_code,手机验证码,Cellphone verification code,Código de verificación del teléfono móvil,Kode verifikasi hp,รหัสยืนยันโทรศัพท์,Mã xác minh điện thoại
+sys_verification_code_input,请输入验证码,Enter the verification code,Introduzca el código de verificación,Silakan input kode verifikasi,โปรดป้อนรหัสยืนยัน,Vui lòng nhập mã xác minh
+sys_verification_code_get,获取验证码,Obtain verification code,Obtener código de verificación,Dapatkan kode verifikasi,รับรหัสยืนยัน,Lấy mã xác minh
+sys_car_ractory_tips1,请将车辆处于静止状态,Please keep the vehicle stationary,Por favor mantenga el vehículo parado,Harap mobil tetap keadaan statis,โปรดทำให้รถอยู่ในสถานะหยุดนิ่ง,Vui lòng để xe ở trạng thái đứng yên
+sys_car_ractory_tips2,请保持车辆电源开启，并将车辆处于静止状态,Please keep the vehicle power-on and stationary,Mantenga el vehículo encendido y parado,"Harap buka catu daya mobil, mobil tetap keadaan statis",โปรดรักษาการเปิดแหล่งจ่ายไฟรถ และทำให้รถอยู่ในสถานะหยุดนิ่ง,"Vui lòng giữ cho xe được bật nguồn, và giữ cho xe ở trạng thái đứng yên"
+sys_notification,系统通知,System notifications,Notificaciones del sistema,Notifikasi sistem,แจ้งเตือนระบบ,Thông báo hệ thống
+sys_refactory_tips1,还原系统设置需要重启系统,Restarting the system is required to restart system settings,Es necesario reiniciar el sistema para reiniciar la configuración del sistema.,Kembali ke pengaturan sistem perlu hidupkan kembali sistem,คืนค่าตั้งค่าระบบจะต้องรีสตาร์ทระบบ,Khôi phục cài đặt hệ thống cần khởi động lại hệ thống
+sys_refactory_tips2,是否确认将车辆设置还原为初始状态，此操作会删除数据且不可逆。,Are you sure to restore the vehicle settings to the initial state? This operation will delete data and is irreversible.,¿Desea restablecer la configuración del vehículo al estado inicial? Esta operación eliminará datos y es irreversible.,"Apakah yakin membuat pengaturan mobil ke keadaan awal, operasi ini akan hapus data dan tdk dapat diubah.",ยืนยันการคืนค่าตั้งค่ารถเป็นสถานะเริ่มต้นหรือไม่ การดำเนินการนี้จะลบข้อมูลและย้อนกลับไม่ได้.,"Có xác nhận khôi phục cài đặt xe về trạng thái ban đầu hay không, thao tác này sẽ xóa dữ liệu và không thể khôi phục lại."
+sys_refactory_tips3,还原默认设置删数据后，用户所有数据清空，需要重启系统。,"After restoring the default settings and deleting data, all user data is cleared and the system needs to be restarted.","Después de eliminar datos y restablecer la configuración predeterminada, todos los datos del usuario se borran y es necesario reiniciar el sistema.","Stlh kembalikan pengaturan default dan hapus data, semua data pengguna akan dihapus dan harus hidupkan kembali sistem.",เมื่อคืนค่าตั้งค่าเริ่มต้นลบข้อมูล และลบข้อมูลทั้งหมดของผู้ใช้ จะต้องรีสตาร์ทระบบ.,"Sau khi khôi phục cài đặt mặc định và xóa dữ liệu, tất cả dữ liệu của người dùng sẽ bị xóa, cần khởi động lại hệ thống."
+sys_refactory_car_success,还原车辆设置成功,Vehicle settings restored successfully,La configuración del vehículo se restableció con éxito,Berhasil kembalikan pengaturan mobil,คืนค่าตั้งค่ารถสำเร็จ,Khôi phục cài đặt xe thành công
+sys_save_or_not,是否保存本次编辑,Do you want to save this edit?,¿Desea guardar esta edición?,Apakah simpan edit kali ini,บันทึกการแก้ไขครั้งนี้หรือไม่,Có lưu bản chỉnh sửa này không
+sys_account_tips,请先登录车主账户后使用此功能(此功能仅对车主账户开放),Please log in to the owner\'s account before using this feature (This feature is only available for the owner\'s account),Inicie sesión en la cuenta del propietario antes de utilizar esta función (esta función solo está disponible para la cuenta del propietario),Silakan masuk ke akun pemilik dulu utk pakai fungsi ini (fungsi ini hanya tersedia utk akun pemilik),โปรดล็อกอินบัญชีของเจ้าของรถก่อนเพื่อใช้ฟังก์ชันนี้ (ฟังก์ชันนี้จะเปิดให้เฉพาะบัญชีเจ้าของรถเท่านั้น),Vui lòng đăng nhập vào tài khoản của chủ sở hữu để sử dụng chức năng này (chức năng này chỉ mở cho tài khoản của chủ sở hữu)
+sys_verification_code_sended,验证码已发送至,The verification code has been sent to,El código de verificación ha sido enviado a,Kode verifikasi telah dikirim ke,ส่งรหัสยืนยันไปที่,Mã xác minh đã được gửi đến
+sys_annual_inspection_reminder,"""下次年检 %s 还有%d天","""The next annual inspection %s is %d days away","\""Faltan días%d para la próxima inspección anual %s","""Ada %d hari tersisa utk %s inspeksi tahunan berikutnya","""ตรวจสภาพประจำปีครั้งล่าสุด %s เหลืออีก %d วัน","""Kiểm tra xe hàng năm lần sau %s còn %d ngày"
+sys_verification_code_resend,重新发送(%d),Resend (%d),Reenviar (%d),Kirim ulang (%d),ส่งอีกครั้ง (%d),Gửi lại (%d)
+sys_call,呼叫客服电话,Call customer service,Llamar al servicio de atención al cliente,Hubungi layanan pelanggan,โทรติดต่อฝ่ายบริการลูกค้า,Gọi CSKH
+connecting,连接中,Connecting,Conectando,Menghubungkan,กำลังเชื่อมต่อ,Đang kết nối
+notification_volume,系统提示音：%d,System prompt tone: %d,Tono de aviso del sistema: %d,Suara pengingat sistem: %d,เสียงแจ้งเตือนระบบ: %d,Âm thanh cảnh báo hệ thống: %d
+navi_volume,导航音量：%d,Navigation volume: %d,Volumen de navegación: %d,Vlm navigasi: %d,ระดับเสียงระบบนำทาง: %d,Âm lượng điều hướng: %d
+voice_volume,语音音量：%d,Voice volume: %d,Volumen de voz: %d,Vlm suara: %d,ระดับเสียงการโทร: %d,Âm lượng âm thanh: %d
+media_volume,多媒体音量：%d,Multimedia volume: %d,Volumen multimedia: %d,Vlm multimedia: %d,ระดับเสียงมัลติมีเดีย: %d,Âm lượng đa phương tiện: %d
+call_volume,通话音量：%d,Call volume: %d,Volumen de llamadas: %d,Vlm panggilan: %d,ระดับเสียงการโทร: %d,Âm lượng cuộc gọi: %d
+carplay_volume,铃声音量：%d,Ring volume: %d,Volumen del timbre: %d,Vlm dering: %d,ระดับเสียงเรียกเข้า: %d,Âm lượng chuông: %d
+hidden_clear_success,清除完成,Clearing completed,Limpieza completada,Hapus selesai,ล้างสำเร็จ,Xóa xong
+hidden_clear_fail,清除失败,Clearing failed,Error al borrar,Gagal hapus,ล้างล้มเหลว,Xóa thất bại
+hidden_clearing,正在清除log,Clearing log,Borrar registro,Lg hapus log,กำลังล้าง Log,Đang xóa log
+hidden_show_all_apps,显示全部应用,Show all Apps,Mostrar todas las aplicaciones,Tampilkan semua App,แสดงแอปทั้งหมด,Hiển thị toàn bộ ứng dụng
+hidden_adb_enable,adb调试,adb debugging,Depuración adb,Debug ADB,ดีบัก ADB,Chạy thử adb
+hidden_adb_devices,adb设备,adb device,Dispositivo adb,Peralatan ADB,อุปกรณ์ ADB,Thiết bị adb
+hidden_adb_log_type,日志类型,Log type,Tipo de registro,Jenis log,ประเภทบันทึก,Loại nhật ký
+hidden_tbox_active,TBox激活,TBox activation,Activación de TBox,Aktivasi TBox,เปิดใช้งาน TBox,Kích hoạt TBox
+hidden_ambient_light,环境光,Ambient light,Luz ambiental,Cahaya lingkungan,แสงโดยรอบ,Ánh sáng môi trường
+hidden_uartconsole_log,串口日志,Serial port log,Registro de puerto serie,Log serial,บันทึกพอร์ตอนุกรม,Nhật ký cổng nối tiếp
+hidden_fw_log,MTK蓝牙Firmware日志,MTK Bluetooth Firmware log,Registro de Firmware Bluetooth MTK,Log firmware bluetooth MTK,บันทึกเฟิร์มแวร์บลูทูธ MTK,Nhật ký Firmware Bluetooth MTK
+hidden_clear_log,清除日志,Clear log,Borrar registro,Hapus log,ล้างบันทึก,Xóa nhật ký
+hidden_amap_mode,高德日夜模式,Amap day and night modes,Modos diurnos y nocturnos de Amap,Mode siang dan malam Amap,โหมดกลางวันกลางคืนบนแผนที่,Chế độ ngày và đêm Gaode
+theme_setting_tips,"当前自动切换白天黑夜模式，如需调整,\n请前往设置更改","The device currently automatically switches between day and night modes. If you need to adjust this setting,\ngo to Settings and make the change","Actualmente, el dispositivo cambia automáticamente entre los modos diurno y nocturno. Si necesita ajustar esta configuración, \nvaya a Configuración y realice el cambio.","Saat ini, mode siang dan mode gelap beralih scr otomatis, jika perlu menyesuaikan,\npergi ke pengaturan utk ubah",เปลี่ยนเป็นโหมดกลางวันกลางคืนโดยอัตโนมัติ หากต้องการปรับ\nโปรดไปที่ตั้งค่าเพื่อแก้ไข,"Hiện tại chế độ ngày và đêm đã tự động chuyển đổi, nếu cần điều chỉnh,\nxin hãy vào phần cài đặt để thay đổi"
+con_found_name,现在可被发现为 :,Now discoverable as:,Ahora detectable como:,Skrg dapat ditemukan sebagai:,ชื่ออุปกรณ์ที่พบ:,Được phát hiện hiện tại là:
+con_bt_usb_device_tips,不支持当前USB类型%s？,Current USB type not supported %s?,¿El tipo de USB actual no es compatible %s?,Tdk mendukung tipe USB saat ini %s?,ไม่รองรับประเภท USB ปัจจุบัน %s?,Không hỗ trợ loại USB hiện tại %s?
+con_bt_usb_positive,我知道了,OK,OK,Oke,ฉันทราบแล้ว,OK
+con_bt_usb_prohibit,设备不支持,Device not supported,Dispositivo no compatible,Peralatan tdk mendukung,อุุปกรณ์ไม่รองรับ,Thiết bị không hỗ trợ
+con_bt_usb_prohibit_hub,不支持HUB,HUB not supported,HUB no compatible,Tdk mendukung HUB,ไม่รองรับ HUB,Không hỗ trợ HUB
+con_bt_usb_positive_v_bus,设备无响应,Device not responding,El dispositivo no responde,Peralatan tdk respons,อุปกรณ์ไม่ตอบสนอง,Thiết bị không phản ứng
+sound_title_click_sound,按键提示音,Button prompt tone,Tono de aviso del botón,Suara pengingat tombol,เสียงแจ้งเตือนปุ่ม,Âm nhắc nhở bàn phím
+sound_switch_click_sound,按键提示音开关,Key prompt tone On/Off,Tono de indicación de tecla activado/desactivado,Saklar suara pengingat tombol,สวิตซ์เสียงแจ้งเตือนปุ่ม,Bật tắt âm nhắc nhở bàn phím
+sound_title_navi,导航音量,Navigation volume,Volumen de navegación,Vlm navigasi,ระดับเสียงระบบนำทาง,Âm lượng điều hướng
+sound_title_voice,语音音量,Voice volume,Volumen de voz,Vlm suara,ระดับเสียงการโทร,Âm lượng âm thanh
+sound_title_voice_tip,仅适用于手机映射功能,For phone mapping function only,Solo para funciones de mapeo en teléfonos móviles,Hanya untuk pemetaan ponsel,ใช้งานได้กับฟังก์ชัน Mapping ด้วยโทรศัพท์มือถือเท่านั้น,Chỉ thích hợp với tính năng chiếu bằng điện thoại
+sound_title_media,多媒体音量,Multimedia volume,Volumen multimedia,Vlm multimedia,ระดับเสียงมัลติมีเดีย,Âm lượng đa phương tiện
+sound_title_car_play,铃声音量,Ring volume,Volumen del timbre,Vlm dering,ระดับเสียงเรียกเข้า,Âm lượng chuông
+sound_balance_title,音量平衡设置,Volume balance settings,Configuración de equilibrio de volumen,Atur balance vlm,ตั้งค่าสมดุลระดับเสียง,Cài đặt cân bằng âm lượng
+sound_speed_title,速度音量补偿,Speed and volume compensation,Compensación de velocidad y volumen.,Kompensasi vlm kecepatan,ชดเชยระดับเสียงความเร็ว,Bù âm lượng tốc độ
+sound_speed_setting_title,补偿设置,Compensation settings,Configuración de compensación,Atur kompensasi,ตั้งค่าการชดเชย,Cài đặt bù
+sound_eq_title,均衡器调节,Equalizer adjustment,Ajuste del ecualizador,Penyesuaian equalizer,ปรับอีควอไลเซอร์,Điều chỉnh bộ cân bằng
+sound_eq_title_80hz,80HZ,80HZ,80 HZ,80HZ,80HZ,80HZ
+sound_eq_title_500hz,500HZ,500HZ,500 HZ,500HZ,500HZ,500HZ
+sound_eq_title_1khz,1KHZ,1KHZ,1 KHZ,1KHZ,1KHZ,1KHZ
+sound_eq_title_5khz,5KHZ,5KHZ,5 KHZ,5KHZ,5KHZ,5KHZ
+sound_eq_title_16khz,16KHZ,16KHZ,16 KHZ,16KHZ,16KHZ,16KHZ
+radio_type,电台类型,Radio station type,Tipo de estación de radio,Jenis radio,ประเภทสถานี,Loại đài phát
+music_type,音乐类型,Music type,Tipo de música,Jenis musik,ประเภทเพลง,Loại âm nhạc
+cradle_mode,摇篮模式,Cradle mode,Modo cuna,Mode buaian,โหมดเปล,Chế độ nôi
+companion_mode,陪伴模式,Accompany mode,Modo acompañamiento,Mode pendamping,โหมดคู่หู,Chế độ bầu bạn
+romantic_mode,浪漫模式,Romance mode,Modo romance,Mode romantis,โหมดโรแมนติก,Chế độ lãng mạn
+dynamic_mode,动感模式,Sport mode,Modo deportivo,Mode dinamis,โหมดซาบซึ้ง,Chế độ sống động
+network_disconnected,网络连接已断开,Network disconnected,Red desconectada,Koneksi jaringan telah terputus,ตัดขาดการเชื่อมต่อเครือข่ายแล้ว,Kết nối mạng đã bị ngất
+password_pattern_error,输入有误，请重新输入,Incorrect input. Please re-enter,Entrada incorrecta. Por favor vuelva a introducir,"Salah input, harap input kembali",การป้อนมีข้อผิดพลาด โปรดป้อนใหม่,"Lỗi nhập, vui lòng nhập lại"
+shang_hai_simple_name,沪,Shanghai,Shanghai,Shanghai,เซี่ยงไฮ้,Thượng Hải
+year,年,Year,Año,Tahun,ปี,Năm
+month,月,Month,Mes,Bulan,เดือน,Tháng
+day,日,Date,Fecha,Hari,วัน,Ngày
+time_format,时间格式,Time format,Formato de tiempo,Format wkt,รูปแบบเวลา,Định dạng thời gian
+time_format_setting,时间格式设置,Time format settings,Configuración de formato de hora,Atur format wkt,ตั้งค่ารูปแบบเวลา,Cài đặt định dạng thời gian
+hour_24_format,24小时制,24-hour system,Sistema de 24 horas,Sistem jam 24,24 ชั่วโมง,Chế độ 24h
+hour_12_format,12小时制,12-hour system,Sistema de 12 horas,Sistem jam 12,12 ชั่วโมง,Chế độ 12h
+wlan,WLAN,WLAN,WLAN,WLAN,WLAN,WLAN
+reboot,重启,Restart,Reanudar,Hidupkan ulang,รีสตาร์ท,Khởi động lại
+system_log,系统日志,System logs,Registros del sistema,Log sistem,บันทึกระบบ,Nhật ký hệ thống
+bluetooth_log,蓝牙日志,Bluetooth logs,Registros de Bluetooth,Log bluetooth,บันทึกบลูทูธ,Nhật ký Bluetooth
+mtk_log,mtk日志,MTK logs,Registros MTK,Log mtk,บันทึก mtk,Nhật ký mtk
+export_to_u_disk,导出日志到U盘,Export logs to USB flash drive,Exportar registros a una unidad flash USB,Ekspor log ke USB,นำออกบันทึกไปที่ USB,Xuất nhật ký sang USB
+export_to_u_disk_time_server,导出最近一小时日志到服务端,Export logs of the last one hours to the server,Exportar registros de las últimas horas al servidor.,Ekspor log dari 2 jam terakhir ke server,นำออกบันทึกหนึ่งชั่วโมงล่าสุดไปที่เซิร์ฟเวอร์,Xuất nhật ký của một giờ gần đây sang máy chủ
+close,关闭,Close,Cerrar,Tutup,ปิด,Đóng
+bt_switch,蓝牙(switch),Bluetooth (switch),Bluetooth (interruptor),Bluetooth (saklar),บลูทูธ (สวิตซ์),Bluetooth (công tắc)
+call_switch,通话通道(switch),Call channel (switch),Canal de llamada (interruptor),Saluran panggilan (saklar),ช่องทางการโทร (สวิตซ์),Kênh cuộc gọi (công tắc)
+a2dp_switch,音频通道(switch),Audio channel (switch),Canal de audio (interruptor),Saluran audio (saklar),ช่องสัญญาณเสียง (สวิตซ์),Kênh âm thanh (công tắc)
+bt_default_switch,设置默认设备(switch),Set default device (switch),Establecer dispositivo predeterminado (interruptor),Atur peralatan default (saklar),ตั้งค่าอุปกรณ์ค่าเริ่มต้น (สวิตซ์),Cài đặt thiết bị mặc định (công tắc)
+wlan_switch,WLAN(switch),WLAN (switch),WLAN (interruptor),WLAN(saklar),WLAN (สวิตซ์),WLAN (công tắc)
+refresh,刷新,Refresh,Actualizar,Segarkan,รีเฟรช,Làm mới
+switch_content_description,(switch),(switch),(interruptor),(saklar),(สวิตซ์),(công tắc)
+description_switch,(switch),(switch),(interruptor),(saklar),(สวิตซ์),(công tắc)
+description_switch_brightness,自动调节屏幕亮度(switch),Automatic screen brightness adjustment (switch),Ajuste automático del brillo de la pantalla (interruptor),Secara otomatis menyesuaikan kecerahan layar (saklar),ปรับความสว่างหน้าจออัตโนมัติ (สวิตซ์),Tự động điều chỉnh độ sáng màn hình (công tắc)
+description_switch_close,关闭,Close,Cerrar,Tutup,ปิด,Đóng
+connect_num_limit,蓝牙配对设备已达上限！请删除一个已配对的设备，然后再尝试连接新设备。,"Bluetooth pairing device has reached the upper limit! Please delete a paired device, and then try to connect the new device.","¡El dispositivo de emparejamiento Bluetooth ha alcanzado el límite superior! Por favor, elimine un dispositivo emparejado y luego intente conectar el nuevo dispositivo.",Jmlh maks perangkat pasangkan bluetooth telah tercapai! Harap hapus perangkat yg dipasangkan sebelum coba menyambungkan yg baru.,บลูทูธจับคู่อุปกรณ์ถึงขีดจำกัดแล้ว! โปรดลบอุปกรณ์ที่จับคู่แล้วหนึ่งอัน จากนั้นลองเชื่อมต่ออุปกรณ์ใหม่อีกครั้ง.,"Thiết bị ghép Bluetooth đã đạt mức tối đa! Vui lòng xóa một thiết bị đã ghép, sau đó thử kết nối với thiết bị mới."
+recommend_tip,智能推荐提示,Intelligent recommendation tips,Consejos de recomendación inteligentes,Pengingat rekomendasi cerdas,แจ้งเตือนคำแนะนำระบบ AI,Nhắc đề xuất thông minh
+con_bt_clean_log_tip,确定清除日志?,Are you sure to clear the log?,¿Desea borrar el registro?,Yakin hapus log?,ยืนยันล้างบันทึก?,Có xóa nhật ký không?
+about_device_name,设备名称,Device name,Nombre del dispositivo,Nama perangkat,ชื่ออุปกรณ์,Tên thiết bị
+about_model_name,型号,Model,Modelo,Model,โมเดล,Model
+about_build_version_eos,E-OS版本,E-OS version,Versión E-OS,Versi E-OS,เวอร์ชัน E-OS,Phiên bản E-OS
+about_build_version_hu,HU版本,HU version,Versión HU,Versi HU,เวอร์ชัน HU,Phiên bản HU
+about_build_version_fota,固件版本,Firmware version,Versión de firmware,Versi firmware,เวอร์ชันเฟิร์มแวร์,Phiên bản Firmware
+about_build_date,版本日期,Version date,Fecha de versión,Tanggal versi,วันที่เวอร์ชัน,Ngày tháng phiên bản
+about_mcu,MCU,MCU,MCU,MCU,MCU,MCU
+about_imei,IMEI,IMEI,IMEI,IMEI,IMEI,IMEI
+about_bt,蓝牙,Bluetooth,Bluetooth,Bluetooth,บลูทูธ,Bluetooth
+current_language,当前语言,Current Language,Idioma Actual,bahasa saat ini,ภาษาปัจจุบัน,ngôn ngữ hiện tại
+language_select,语言选择,Language Select,Seleccionar Idioma,pilihan bahasa,เลือกภาษา,sự lựa chọn ngôn ngữ
+about_wlan,无线局域网地址,Wireless LAN Address,Dirección de LAN inalámbrica,Alamat LAN Nirkabel,ที่อยู่เครือข่ายไร้สาย,Địa chỉ Mạng LAN không dây
+upload_log_loading_message,开始打包上传,Starting Log Packaging and Upload,Iniciando el empaquetado y la carga de registros,Mulai mengemas dan mengunggah,เริ่มการอัปโหลดแพ็กเกจ,Bắt đầu đóng gói và tải lên
+upload_log_loading_message_repeat,"上传中,请勿重复操作","Uploading, please do not repeat the operation","Subiendo, por favor no repita la operación","Mengunggah, jangan ulangi tindakan",กำลังอัปโหลด กรุณาอย่าทำซ้ำ,"Đang tải lên, vui lòng không lặp lại thao tác"
+upload_log_loading_success,上传成功,Upload Successful,Carga correcta,Berhasil mengunggah,อัปโหลดเสร็จสิ้น,Tải lên thành công
+upload_log_loading_fail,上传失败，请稍后重试,"Upload Failed, please try again later","La carga falló, inténtelo de nuevo más tarde.","Gagal mengunggah, silakan coba lagi nanti",อัปโหลดล้มเหลว โปรดลองอีกครั้งในภายหลัง,"Tải lên thất bại, vui lòng thử lại sau"
+upload_log_loading_network_no,"网络异常,请检查网络","Network Exception, please check the network","Excepción de red, compruebe la red","Gagal terhubung ke jaringan, periksa koneksi internet",เครือข่ายมีปัญหา กรุณาตรวจสอบเครือข่าย,"Lỗi mạng, vui lòng kiểm tra mạng"
+upload_log_loading_dialog,正在打包日志并上传，请稍后~,"Packaging logs and uploading, please wait~","Empaquetando registros y subiéndolos, por favor espere ~","Sedang mengemas log dan mengunggah, tunggu sebentar~",กำลังบันทึกและอัปโหลดบันทึก โปรดรอสักครู่~,"Đang đóng gói và tải lên nhật ký, vui lòng đợi~"
+time,时间,Time,Hora,Waktu,เวลา,Thời gian
+time_zone,时区,Time Zone,Zona horaria,Zona Waktu,เขตเวลา,Múi giờ
+country_select,地区选择,Region Selection,Selección de región,Pilih Negara,เลือกประเทศ,Chọn quốc gia
+time_zone_select,时区选择,Time Zone Selection,Selección de zona horaria,Pilih Zona Waktu,เลือกเขตเวลา,Chọn múi giờ
+time_zone_country_select,区域选择,Region Selection,Selección de región,Pilih Wilayah,เลือกเขตและประเทศ,Chọn khu vực
+language,语言,Language,Idioma,bahasa,ภาษา,ngôn ngữ
+input_method,输入法,Input,Entrada,Metode Input,วิธีการป้อนข้อมูล,Bàn phím
+input_setting,输入法设置,Input Method Setting,Configuración del Método de Entrada,Pengaturan Input,ตั้งค่าวิธีการป้อนข้อมูล,Cài đặt bàn phím
+follow_system_language,跟随系统语言,Follow System Language,Seguir el idioma del sistema,Ikuti Bahasa Sistem,ตามภาษาของระบบ,Theo ngôn ngữ hệ thống
+chinese_display_name,中文(简体),Chinese (Simplified),Chino (Simplificado),Cina (Sederhana),ภาษาจีน (ตัวย่อ),Tiếng Trung (Giản thể)
+language_switch_language,切换语言,Switch Language,Cambiar idioma,Ganti Bahasa,เปลี่ยนภาษา,Chuyển đổi ngôn ngữ
+language_switch_language_message,您想要将“%1$s”语言设置为显示语言吗？,"Do you want to set ""%1$s"" as the display language?","¿Desea establecer \""%1$s\"" como idioma de visualización?","Anda ingin mengatur bahasa ""%1$s"" sebagai bahasa tampilan?","คุณต้องการตั้ง ""%1$s"" เป็นภาษาแสดงหรือไม่?","Bạn có muốn đặt ngôn ngữ ""%1$s"" làm ngôn ngữ hiển thị không?"
+hidden_sunrise_sunset_enable,日出日落模式,Sunrise and sunset mode,Modo amanecer y atardecer,Mode Penyesuaian Cahaya,โหมดพระอาทิตย์ขึ้นและตก,Chế độ ban ngày ban đêm
+connected_success,网络连接成功,Network Connected Successfully,Red conectada con éxito,Koneksi jaringan berhasil,เชื่อมต่อเครือข่ายสำเร็จ,Kết nối mạng thành công
+sys_verification_code_resend_ready,重新发送,Resend,Reenviar,Kirim ulang,ส่งใหม่,Gửi lại
+conn_interconnection,手机互联,Phone Interconnection,Interconexión telefónica,Interkoneksi Ponsel,การเชื่อมต่อโทรศัพท์,Kết nối điện thoại
+conn_carplay,Apple CarPlay,Apple CarPlay,Apple CarPlay,Apple CarPlay,Apple CarPlay,Apple CarPlay
+conn_carplay_confirm,确定,Confirm,Confirmar,Konfirmasi,ยืนยัน,Xác nhận
+conn_carplay_cancel,取消,Cancel,Cancelar,Batal,ยกเลิก,Hủy
+con_interconnection_bond_list,已配对设备,Paired Devices,Dispositivos emparejados,Perangkat Dipasangkan,อุปกรณ์ที่เชื่อมต่อแล้ว,Thiết bị đã ghép nối
+con_interconnection_avai_devices_list,可用设备列表,Available Devices List,Lista de dispositivos disponibles,Daftar Perangkat Tersedia,รายการอุปกรณ์ที่ใช้งานได้,Danh sách thiết bị có sẵn
+con_interconnection_disconnect_cp,结束当前的连接状态？,End the current connection status?,¿Desea finalizar el estado de conexión actual?,Akhiri status koneksi saat ini?,หยุดสถานะการเชื่อมต่อปัจจุบันหรือไม่?,Kết thúc trạng thái kết nối hiện tại?
+conn_not_support,不支持手机互联功能,Phone Interconnection not supported,Interconexión telefónica no compatible,Tidak mendukung fitur interkoneksi ponsel,ไม่รองรับการเชื่อมต่อโทรศัพท์,Không hỗ trợ chức năng kết nối điện thoại
+conn_carplay_title,您现在可以通过蓝牙将车辆与您的设备进行连接  ,You can now connect your vehicle with your device via Bluetooth.,Ya puede conectar su vehículo con su dispositivo a través de Bluetooth.,Saat ini Anda dapat menghubungkan kendaraan dengan perangkat Anda melalui Bluetooth,คุณสามารถเชื่อมต่อรถยนต์กับอุปกรณ์ของคุณผ่านบลูทูธได้ตอนนี้,Bạn có thể kết nối xe với thiết bị của mình qua Bluetooth
+conn_interconn_title,"""已配对设备""","""Paired Devices""","\""Dispositivos emparejados\""",Perangkat yang Sudah Dipasangkan,อุปกรณ์ที่เชื่อมต่อแล้ว,"""Thiết bị đã ghép nối"""
+con_interconnection_support,手机互联功能支持Apple CarPlay,手机互联功能支持Apple CarPlay,手机互联功能支持Apple CarPlay,手机互联功能支持Apple CarPlay,手机互联功能支持Apple CarPlay,手机互联功能支持Apple CarPlay
+wlan_password_error_dialog_title,WLAN密码输入错误,WLAN Password Input Error,Error de entrada de contraseña WLAN,Kesalahan Masukkan Kata Sandi WLAN,รหัสผ่าน WLAN ไม่ถูกต้อง,Sai mật khẩu WLAN
+wlan_password_error_dialog_content,WLAN密码输入错误，请确认密码,"WLAN password input error, please verify the password","Error al introducir la contraseña de WLAN, compruebe la contraseña","Kata sandi WLAN yang dimasukkan salah, harap periksa kata sandi",รหัสผ่าน WLAN ไม่ถูกต้อง โปรดตรวจสอบรหัสผ่าน,"Sai mật khẩu WLAN, vui lòng kiểm tra lại"
+con_5g,移动网络,Mobile Network,Red Móvil,Jaringan Seluler,เครือข่ายมือถือ,Mạng di động
+con_reboot_5g,重启4G/5G模块,Restart 4G/5G Module,Reiniciar el módulo 4G/5G,Mulai Ulang Modul 4G/5G,รีสตาร์ทโมดูล 4G/5G,Khởi động lại mô-đun 4G/5G
+com_ai_ota,OTA重点功能介绍,Key Features of OTA,Características clave de la OTA,Fitur Utama OTA,คำแนะนำคุณลักษณะสำคัญของ OTA,Giới thiệu chức năng OTA
+com_ai_forget,遗忘功能提醒,Forget Function Reminder,Olvidar recordatorio de función,Pemberitahuan Fitur Lupa,คำแนะนำการลืมรหัสผ่าน,Nhắc nhở chức năng Quên
+com_ai_extreme_weather,极端天气提醒,Extreme Weather Reminder,Recordatorio de clima extremo,Pemberitahuan Cuaca Ekstrem,คำแนะนำสภาวะอากาศสุดพิเศษ,Nhắc nhở thời tiết cực đoan
+com_ai_battery_life,冬季电池续航小贴士,Winter Battery Life Tips,Consejos para la duración de la batería en invierno,Tips Hidup Baterai Musim Dingin,เคล็ดลับการใช้แบตเตอรี่ในฤดูหนาว,Mẹo tiết kiệm pin mùa đông
+com_ai_smog,雾霾天气提醒,Smog Weather Reminder,Recordatorio del smog,Pemberitahuan Cuaca Kabut,คำแนะนำสภาวะอากาศหมอกควัน,Nhắc nhở thời tiết sương mù
+com_ai_air_quality,空气质量差,Poor Air Quality,Mala calidad del aire,Kualitas Udara Buruk,คุณภาพอากาศแย่,Chất lượng không khí kém
+wlan_connect_failed_dialog_title,WLAN连接错误,WLAN Connection Error,Error de conexión WLAN,Kesalahan Koneksi WLAN,ข้อผิดพลาดในการเชื่อมต่อ WLAN,Lỗi kết nối WLAN
+wlan_connect_failed_dialog_content,WLAN连接失败，请重试,"WLAN connection failed, please try again","La conexión WLAN falló, inténtelo de nuevo","Koneksi WLAN gagal, harap coba lagi",เชื่อมต่อ WLAN ล้มเหลว โปรดลองอีกครั้ง,"Lỗi kết nối WLAN, vui lòng thử lại"
+wlan_disconnect_dialog_title,断开网络连接,Disconnect Network Connection,Desactivar la conexión de red,Putuskan Koneksi Jaringan,ตัดการเชื่อมต่อเครือข่าย,Ngắt kết nối mạng
+wlan_disconnect_dialog_content,是否要断开无线局域网“%s”？,"Do you want to disconnect from the wireless LAN ""%s""?","¿Desea desconectarse de la LAN inalámbrica \""%s\""?","Apakah Anda ingin memutuskan WLAN ""%s""?","คุณต้องการตัดการเชื่อมต่อกับเครือข่ายไร้สาย ""%s"" หรือไม่?","Bạn có muốn ngắt kết nối mạng không dây ""%s"" không?"
+bt_connect_or_carplay,"\""
+        ","
+    ","
+    ","
+    ","
+    ","
+    "
+conn_interconnection_start_aa,现在是否要启动 Android Auto,,,,,
+input_method_sync,输入法语言同步,Input Method Language Sync,Método de entrada Sincronización de idioma,Sinkronisasi Bahasa Metode Input,การซิงค์ภาษาแบบหลักการป้อนข้อมูล,Đồng bộ ngôn ngữ bàn phím
+inputmethod_sync_content,是否将输入法一起切换到“%1$s”语言？,"Would you like to switch the input method to the ""%1$s"" language together?","¿Le gustaría cambiar el método de entrada al idioma \""%1$s\""?","Apakah Anda ingin beralih metode input ke bahasa ""%1$s"" bersamaan?","คุณต้องการที่จะสลับวิธีป้อนข้อมูลเป็นภาษา ""%1$s"" ไหม?","Bạn có muốn chuyển đổi bàn phím sang ngôn ngữ ""%1$s"" không?"
+bluetooth_device_ask_connect,蓝牙设备请求连接,Bluetooth device requests a connection,El dispositivo Bluetooth solicita una conexión,Perangkat Bluetooth meminta koneksi,อุปกรณ์ Bluetooth ร้องขอการเชื่อมต่อ,Thiết bị Bluetooth yêu cầu kết nối
+input_language_selsction,输入法语言选择,Input Language Selection,,Pemilihan bahasa metode masukan,การเลือกภาษาวิธีการป้อนข้อมูล,Lựa chọn ngôn ngữ phương thức nhập
+carplay_open_bluetooth_hint,若启用互联功能请先开启蓝牙,Turn on Bluetooth to support connectivity feature,Turn on Bluetooth to support connectivity feature,Turn on Bluetooth to support connectivity feature,Turn on Bluetooth to support connectivity feature,Turn on Bluetooth to support connectivity feature
+apple_carplay_disconnect_tip,是否继续连接蓝牙，Apple CarPlay 将断开？,是否继续连接蓝牙，Apple CarPlay 将断开？,是否继续连接蓝牙，Apple CarPlay 将断开？,是否继续连接蓝牙，Apple CarPlay 将断开？,是否继续连接蓝牙，Apple CarPlay 将断开？,是否继续连接蓝牙，Apple CarPlay 将断开？
+bt_toast_connected_error,蓝牙连接失败,Bluetooth connection failed,Conexión Bluetooth fallida,Gagal menyambung Bluetooth,การเชื่อมต่อ Bluetooth ล้มเหลว,Kết nối Bluetooth thất bại
