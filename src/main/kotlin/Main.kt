@@ -30,17 +30,14 @@ fun App() {
             Row {
                 Column(modifier = Modifier.weight(1f)) {
                     FilePicker("选择 res 目录", scope, xmlPath)
-                    Text("选中的目录: ${xmlPath.value}")
+                    Text("选中的目录: ${xmlPath.value}", modifier = Modifier.padding(start = 12.dp))
                 }
             }
 
             Button(onClick = {
                 val path = "C:\\Users\\chenlijin\\my\\SystemSetting\\app\\src\\main\\res"
                 Language.entries.forEach {
-                    extractedTranslate(path, transLateDataList, it)
-                }
-                transLateDataList.forEach {
-                    println(it)
+                    extractedTranslate(xmlPath.value, transLateDataList, it)
                 }
                 val csvData = mutableListOf(
                     listOf("stringId", "中文", "英文", "西班牙语", "印度", "泰国", "越南"),
@@ -58,7 +55,7 @@ fun App() {
                 })
 
                 csvWriter().writeAll(csvData, "translateData.csv")
-            }) {
+            }, modifier = Modifier.padding(16.dp)) {
                 Text("开始解析")
             }
         }
